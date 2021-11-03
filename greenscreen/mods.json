@@ -6,7 +6,7 @@
   "starmade version": "0.203.105",
   "client_mod": false,
   "server_mod": false,
-  "main_class": "me.tomino.greenscreen.Greenscreen",
+  "main_class": "me.tomino.greenscreen.greenscreen",
   "smd_resource_id": 98712789,
   "dependencies": [
     -1
