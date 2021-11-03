@@ -1,0 +1,17 @@
+{
+  "name": "GreenScreen",
+  "author": "Tomino D johnson",
+  "description": "Special Effects",
+  "version": "1.0",
+  "starmade_version": "0.203.105",
+  "client_mod": false,
+  "server_mod": false,
+  "main_class": "me.tomino.greenscreen.GreenScreen",
+  "smd_resource_id": 8315,
+  "starloader_version": "0.5.100",
+  "dependencies": [
+    -1
+  ],
+  "core_mod": false,
+  "requires_class_resize": false
+}
